@@ -18,10 +18,20 @@
 @layer base {
   :root {
     /* Colors */
-    --primary: 45, 91, 255;
+    --primary: 255, 138, 0;
     --secondary: 98, 132, 253;
     --tertiary: 150, 173, 255;
     --quaternary: 236, 240, 255;
+
+    /* Cores da documentação de RiseTact */
+    --primary-500: 255, 138, 0;
+    --primary-300: 232, 148, 48;
+    --primary-700: 207, 122, 23;
+    --secondary-500: 44, 45, 42;
+    --neutral-500: 227, 227, 225;
+    --white-500: 255, 255, 255;
+    --black-500: 0, 0, 0;
+    --danger-500: 255, 0, 0;
 
     --hover: 27, 74, 240;
     --click: 0, 46, 208;
@@ -32,6 +42,7 @@
     --bg-light: 255, 255, 255;
     --bg-dark: 248, 248, 248;
     --bg-disabled: 239, 239, 239;
+    --bg-danger: 255, 0, 0;
 
     --text-primary: 24, 24, 24;
     --text-secondary: 92, 92, 92;

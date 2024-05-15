@@ -37,6 +37,15 @@ module.exports = {
         outline: "rgba(var(--outline), <alpha-value>)",
         divider: "rgba(var(--divider), <alpha-value>)",
         disabled: "rgba(var(--text-disabled), <alpha-value>)",
+        // Cores do RiseTact
+        "primary-500": "rgba(var(--primary-500), <alpha-value>)",
+        "primary-300": "rgba(var(--primary-300), <alpha-value>)",
+        "primary-700": "rgba(var(--primary-700), <alpha-value>)",
+        "secondary-500": "rgba(var(--secondary-500), <alpha-value>)",
+        "neutral-500": "rgba(var(--neutral-500), <alpha-value>)",
+        "white-500": "rgba(var(--white-500), <alpha-value>)",
+        "black-500": "rgba(var(--black-500), <alpha-value>)",
+        "danger-500": "rgba(var(--danger-500), <alpha-value>)",
       },
       backgroundColor: {
         light: "rgba(var(--bg-light), <alpha-value>)",
@@ -44,6 +53,8 @@ module.exports = {
         success: "rgba(var(--text-success), <alpha-value>)",
         error: "rgba(var(--text-error), <alpha-value>)",
         disabled: "rgba(var(--bg-disabled), <alpha-value>)",
+        // Alteração de teste
+        danger: "rgba(var(--bg-disabled), <alpha-value>)",
       },
       textColor: {
         gray: {
