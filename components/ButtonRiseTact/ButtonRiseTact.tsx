@@ -34,7 +34,7 @@ function getVariant(variant: ButtonRiseTactProps['variant'], disabled: boolean |
         }
 }
 
-// const haveIcon = (icon: ButtonRiseTactProps['icon']) => {
+//const haveIcon = (icon: ButtonRiseTactProps['icon']) => {
 //     return icon ? 'flex items-center justify-center' : '';
 // }
 
